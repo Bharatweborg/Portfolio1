@@ -7,21 +7,21 @@ const projects = [
     title: "E-Commerce Platform",
     description: "Full-stack e-commerce solution with payment integration",
     tags: ["React", "Node.js", "MongoDB"],
-    link: "https://github.com/HaranathMondal",
+    // link: "https://github.com/HaranathMondal",
     image: "/images/ecommerce.jpg", // Place in public/images/
   },
   {
     title: "AI Chat Application",
     description: "Real-time chat with GPT-4 integration",
     tags: ["Next.js", "Firebase", "OpenAI"],
-    link: "https://github.com/HaranathMondal",
+    // link: "https://github.com/HaranathMondal",
     image: "/images/chatapp.jpg",
   },
   {
     title: "Portfolio Website",
     description: "Interactive 3D portfolio site",
     tags: ["Three.js", "GSAP", "React"],
-    link: "https://github.com/HaranathMondal",
+    // link: "https://github.com/HaranathMondal",
     image: "/images/portfolio.jpg",
   },
 ];
